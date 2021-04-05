@@ -2,7 +2,7 @@
 
 This repo provides implementation of a convolutional VAE on Fashion-MNIST dataset. The aim of this notebook is to provide a quick, working example of the VAE Generative model. The notebook can be run in Google colab as is!
 
-##Results
+## Results
 
 Following is the video of images reconstructed during validation.
 
